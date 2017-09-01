@@ -1,0 +1,8 @@
+[
+    {"level": "Federal", "division": "ocd-division/country:au", "chambers": ["upper", "lower"],
+    "start": 1500000000, "end": 1501000000},
+    {"level": "State", "division": "ocd-division/country:au/state:vic", "chambers": ["upper"], "type": "special",
+    "start": 1503000000, "end": -1},
+    {"level": "Local", "division": "darebin.vic.gov.au", "chambers": ["council"], "start": 1490000000,
+    "end": 1500000000}
+]
